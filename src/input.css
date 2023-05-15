@@ -21,7 +21,7 @@
 .hs-icon{
     @apply w-5 h-5 inline-block;
 }
-.hs-border-cricle {
+.hs-badge-circle{
     @apply text-xs text-center rounded-full px-1.5;
 }
 
@@ -32,7 +32,7 @@
     @apply w-8 h-px bg-gray-200;
 }
 .hs-subheadline-label{
-    @apply mx-4 tracking-widest text-gray-500 font-medium text-xs text-center;
+    @apply uppercase mx-4 tracking-widest text-gray-500 font-medium text-xs text-center;
 }
 .hs-button {
     @apply text-center uppercase tracking-wider py-4 px-8 text-[12px] font-semibold cursor-pointer hover:bg-opacity-95;
